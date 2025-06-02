@@ -42,10 +42,6 @@
   text-decoration: underline;
 }
 
-/* .text-input__label:has(~ .text-input__wrapper:has(.text-input__input:focus)) {
-  text-decoration: underline;
-} */
-
 .text-input__icon {
   width: 24px;
   height: 24px;
